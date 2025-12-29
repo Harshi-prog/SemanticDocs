@@ -1,0 +1,5 @@
+{
+  "name": "SemanticDocs AI",
+  "description": "A hallucination-free, document-grounded RAG system using Gemini for precise, citation-based semantic search.",
+  "requestFramePermissions": []
+}
